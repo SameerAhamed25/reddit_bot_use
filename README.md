@@ -1,7 +1,5 @@
 # reddit_bot_use
 
-Certainly! Here's a sample README description for your Reddit interaction code using PRAW:
-
 ---
 
 # Reddit Interaction with PRAW
